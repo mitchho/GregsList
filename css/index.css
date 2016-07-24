@@ -34,7 +34,7 @@ nav {
 /* Tricky / Interaction not obvious and not annotated, first :hover */
 a {
   text-decoration: none;
-  color: blue;
+  //color: blue;
 }
 
 a:hover {
